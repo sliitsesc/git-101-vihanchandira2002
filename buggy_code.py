@@ -6,6 +6,6 @@ def calculate_sum(numbers)
     print("The sum of the list is: " + str(total))
 
 
-if __name__ == "__main__":
+if__name__ == "__main__":
     numbers = [1, 2, 3, 4, 5]
     calculate_sum(numbers)
